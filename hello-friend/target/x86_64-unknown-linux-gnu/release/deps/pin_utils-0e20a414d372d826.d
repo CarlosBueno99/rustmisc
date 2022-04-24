@@ -1,0 +1,9 @@
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/pin_utils-0e20a414d372d826.rmeta: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/libpin_utils-0e20a414d372d826.rlib: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/pin_utils-0e20a414d372d826.d: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs
+
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/lib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/stack_pin.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-utils-0.1.0/src/projection.rs:

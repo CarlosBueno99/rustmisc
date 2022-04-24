@@ -1,0 +1,11 @@
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/ppv_lite86-168a018cad7c8931.rmeta: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/libppv_lite86-168a018cad7c8931.rlib: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/x86_64-unknown-linux-gnu/release/deps/ppv_lite86-168a018cad7c8931.d: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs:
