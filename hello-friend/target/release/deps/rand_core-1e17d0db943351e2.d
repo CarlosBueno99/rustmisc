@@ -1,0 +1,12 @@
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\rand_core-1e17d0db943351e2.rmeta: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\librand_core-1e17d0db943351e2.rlib: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\rand_core-1e17d0db943351e2.d: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs
+
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\lib.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\block.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\error.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\impls.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\le.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.6.3\src\os.rs:

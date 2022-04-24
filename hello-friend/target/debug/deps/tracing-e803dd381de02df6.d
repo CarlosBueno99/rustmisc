@@ -1,0 +1,13 @@
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/debug/deps/tracing-e803dd381de02df6.rmeta: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/debug/deps/tracing-e803dd381de02df6.d: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs
+
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/lib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/macros.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/dispatcher.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/field.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/instrument.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/level_filters.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/span.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/stdlib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.34/src/subscriber.rs:

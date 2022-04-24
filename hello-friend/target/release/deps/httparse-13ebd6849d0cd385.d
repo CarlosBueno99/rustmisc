@@ -1,0 +1,12 @@
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/release/deps/httparse-13ebd6849d0cd385.rmeta: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/release/deps/libhttparse-13ebd6849d0cd385.rlib: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/release/deps/httparse-13ebd6849d0cd385.d: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs
+
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/lib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/iter.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/macros.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/mod.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/sse42.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.7.0/src/simd/avx2.rs:

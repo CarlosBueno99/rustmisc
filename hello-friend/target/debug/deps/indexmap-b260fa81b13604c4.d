@@ -1,0 +1,13 @@
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\debug\deps\indexmap-b260fa81b13604c4.rmeta: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\macros.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\equivalent.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\mutable_keys.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\util.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core\raw.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\set.rs
+
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\debug\deps\indexmap-b260fa81b13604c4.d: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\macros.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\equivalent.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\mutable_keys.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\util.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core\raw.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\set.rs
+
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\lib.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\macros.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\equivalent.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\mutable_keys.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\util.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\map\core\raw.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.8.1\src\set.rs:

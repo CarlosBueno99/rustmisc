@@ -1,0 +1,13 @@
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/debug/deps/indexmap-d6083ffc096948a2.rmeta: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/mnt/c/Users/carlo/Documents/git/rustmisc/hello-friend/target/debug/deps/indexmap-d6083ffc096948a2.d: /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs:
+/home/carlos/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs:

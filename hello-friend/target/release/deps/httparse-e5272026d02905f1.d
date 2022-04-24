@@ -1,0 +1,12 @@
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\httparse-e5272026d02905f1.rmeta: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\libhttparse-e5272026d02905f1.rlib: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+C:\Users\carlo\Documents\git\rustmisc\hello-friend\target\release\deps\httparse-e5272026d02905f1.d: C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs
+
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\lib.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\iter.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\macros.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\mod.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\sse42.rs:
+C:\Users\carlo\.cargo\registry\src\github.com-1ecc6299db9ec823\httparse-1.7.0\src\simd\avx2.rs:
